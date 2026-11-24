@@ -1,6 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:06B6D4&height=200&section=header&text=Francisco%20Edinaldo&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=Front-end%20Web%20(Vue.js)%20%E2%80%A2%20IA%20Aplicada%20%26%20Web%20%2B%20IA&descAlignY=62&descSize=16&animation=fadeIn" alt="Banner Francisco Edinaldo" />
-</div>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:06B6D4&height=200&section=header&text=Francisco%20Edinaldo&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=Front-end%20Web%20%28Vue.js%29%20%E2%80%A2%20IA%20Aplicada%20e%20Web&descAlignY=62&descSize=16&animation=fadeIn" alt="Banner Francisco Edinaldo" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
